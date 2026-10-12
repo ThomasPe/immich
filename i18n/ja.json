@@ -1987,8 +1987,6 @@
   "setting_image_viewer_help": "写真を表示すると、サムネイル・中画質・オリジナルの順に読み込まれます。",
   "setting_image_viewer_original_subtitle": "オリジナルの画像を表示したいときにオンにしてください。(最大画質で表示されるので、データと端末のストレージの消費量が増えます)",
   "setting_image_viewer_original_title": "オリジナルを読み込む",
-  "setting_image_viewer_preview_subtitle": "中画質の写真をロードしたいときにオンにしてください。このステップをスキップして直接最大画質の写真を表示したい場合はオフにしてください。(ロード中はサムネイルが代わりに表示されます)",
-  "setting_image_viewer_preview_title": "プレビューを読み込む",
   "setting_languages_apply": "適用する",
   "setting_languages_subtitle": "アプリの言語を変更する",
   "setting_notifications_notify_minutes": "{count}分",

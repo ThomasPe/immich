@@ -1989,8 +1989,6 @@
   "setting_image_viewer_help": "Der Detailbildbetrachter lädt zuerst ein (kleines) Vorschaubild, dann ein Vorschaubild in mittlerer Größe (falls aktiviert) und schließlich das Original (falls aktiviert).",
   "setting_image_viewer_original_subtitle": "Aktivieren, um das Originalbild in voller Auflösung (groß!) zu laden. Deaktivieren, um den Datenverbrauch zu reduzieren (sowohl im Netzwerk als auch im Gerätespeicher).",
   "setting_image_viewer_original_title": "Original laden",
-  "setting_image_viewer_preview_subtitle": "Aktivieren, um ein Bild mit mittlerer Auflösung zu laden. Deaktivieren, um entweder das Original direkt zu laden oder nur das Vorschaubild zu verwenden.",
-  "setting_image_viewer_preview_title": "Vorschaubild laden",
   "setting_languages_apply": "Anwenden",
   "setting_languages_subtitle": "App-Sprache ändern",
   "setting_notifications_notify_minutes": "{count} Minuten",

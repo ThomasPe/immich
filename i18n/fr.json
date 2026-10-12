@@ -1989,8 +1989,6 @@
   "setting_image_viewer_help": "Le visualiseur de détails charge d'abord la petite miniature, puis l'aperçu de taille moyenne (s'il est activé), enfin l'original (s'il est activé).",
   "setting_image_viewer_original_subtitle": "Activez cette option pour charger l'image en résolution originale (fichier volumineux !). Désactiver pour réduire l'utilisation des données (réseau et cache de l'appareil).",
   "setting_image_viewer_original_title": "Charger l'image originale",
-  "setting_image_viewer_preview_subtitle": "Activer pour charger une image de résolution moyenne. Désactiver pour charger directement l'original ou utiliser uniquement la miniature.",
-  "setting_image_viewer_preview_title": "Charger l'image d'aperçu",
   "setting_languages_apply": "Appliquer",
   "setting_languages_subtitle": "Changer la langue de l'application",
   "setting_notifications_notify_minutes": "{count} minutes",

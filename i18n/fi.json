@@ -1825,8 +1825,6 @@
   "setting_image_viewer_help": "Kuvaa katseltaessa ensin ladataan pikkukuva, sitten keskilaatuinen pikkukuva (jos käytössä) ja lopuksi alkuperäinen (jos käytössä).",
   "setting_image_viewer_original_subtitle": "Ota käyttöön ladataksesi alkuperäinen täysitarkkuuksinen kuva (suuri!). Poista käytöstä vähentääksesi datan käyttöä (sekä verkossa että laitteen välimuistissa).",
   "setting_image_viewer_original_title": "Lataa alkuperäinen kuva",
-  "setting_image_viewer_preview_subtitle": "Ota käyttöön ladataksesi keskitarkkuuksinen kuva. Poista käytöstä ladataksesi alkuperäinen kuva tai käyttääksesi vain esikatselukuvaa.",
-  "setting_image_viewer_preview_title": "Lataa esikatselukuva",
   "setting_languages_apply": "Käytä",
   "setting_languages_subtitle": "Vaihda sovelluksen kieli",
   "setting_notifications_notify_minutes": "{count} minuuttia",

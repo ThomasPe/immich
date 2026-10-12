@@ -1982,8 +1982,6 @@
   "setting_image_viewer_help": "Detaljeret visning indlæser miniaturebilleder først. Herefter indlæses mediumstørrelse forhåndsvisning af billedet (hvis dette er slået til), for til sidst at vise originalen (hvis dette er slået til).",
   "setting_image_viewer_original_subtitle": "Slå indlæsning af originalbillede i fuld størrelse til (stort!). Deaktiver for at reducere dataforbruget (både på netværket og for enhedscache).",
   "setting_image_viewer_original_title": "Indlæs originalbillede",
-  "setting_image_viewer_preview_subtitle": "Slå indlæsning af et mediumstørrelse billede til. Slå fra for enten direkte at indlæse originalen eller kun at bruge miniaturebilledet.",
-  "setting_image_viewer_preview_title": "Indlæs forhåndsvisning af billedet",
   "setting_languages_apply": "Anvend",
   "setting_languages_subtitle": "Ændr app-sprog",
   "setting_notifications_notify_minutes": "{count} minutter",

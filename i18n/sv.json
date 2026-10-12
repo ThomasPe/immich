@@ -1988,8 +1988,6 @@
   "setting_image_viewer_help": "Detaljerad vy laddar miniatyrer först. Efter detta laddas den medelstora förhandsgranskningen av bilden (om detta är aktiverat), och visar slutligen originalet (om detta är aktiverat).",
   "setting_image_viewer_original_subtitle": "Aktivera detta för att läsa in den fullstora originalbilden. Inaktivera det för att minska dataanvändningen i både nätverket och enhetens cacheminne.",
   "setting_image_viewer_original_title": "Ladda originalbilden",
-  "setting_image_viewer_preview_subtitle": "Aktivera för att ladda en mellanstor bild. Stäng av för att antingen ladda originalet direkt eller bara använda miniatyrbilden.",
-  "setting_image_viewer_preview_title": "Ladda förhandsgranskning av bild",
   "setting_languages_apply": "Verkställ",
   "setting_languages_subtitle": "Ändra appens språk",
   "setting_notifications_notify_minutes": "{count} minuter",
