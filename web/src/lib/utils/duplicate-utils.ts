@@ -59,7 +59,7 @@ type MetadataFieldDefinition = {
   titleKey: string;
   keys: readonly string[];
   render: (asset: AssetResponseDto, $t: MessageFormatter, locale: string | undefined) => string;
-  tooltip?: (asset: AssetResponseDto, $t: MessageFormatter) => string;
+  tooltip?: (asset: AssetResponseDto, $t: MessageFormatter) => string | undefined;
 };
 
 const metadataFields = [
@@ -74,7 +74,7 @@ const metadataFields = [
     titleKey: 'path',
     keys: ['originalPath'],
     render: (asset, $t) => truncateMiddle(asset.originalPath) || $t('unknown'),
-    tooltip: (asset, $t) => $t('full_path', { values: { path: asset.originalPath } }),
+    tooltip: (asset, _) => asset.originalPath || undefined,
   },
   {
     icon: mdiWeightKilogram,
